@@ -1,7 +1,7 @@
 //Header
 
 /* File Name: MyBoggle
- Author: 
+ Author: [Removed for Privacy Reasons]
  Date: Nov 17, 2017
  */
 
