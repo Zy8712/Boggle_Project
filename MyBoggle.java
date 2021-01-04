@@ -1,7 +1,7 @@
 //Header
 
 /* File Name: MyBoggle
- Author: Bryan Li
+ Author: 
  Date: Nov 17, 2017
  */
 
